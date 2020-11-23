@@ -12,5 +12,5 @@ Here are a few things I've picked up along my learning journey.
 * ♽ Docker | Kubernetes
 
 ## 📫 Get in touch
-- LinkedIn - [Phurba Sherpa](https://in.linkedin.com/in/phrbshrp)
+- LinkedIn - [Phurba Sherpa](https://www.linkedin.com/in/phrb-shrp/)
 - Or Email me -> [mail](mailto:srpphurba@gmail.com) .
